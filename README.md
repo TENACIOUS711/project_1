@@ -1,0 +1,1 @@
+This landing page is made as a result of me learning and practice frontend development using HTML, CSS and some required libraries used in Javascript. It contains animations such as scrolltrigger as well. This landing page is an attempt of learning how to make responsive web designs.
